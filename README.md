@@ -8,7 +8,7 @@
 I had earlier thought of doing 30 smart contracts for 30 days, but I know me and I know I will burn out in 5 days 😅. So instead, thought of making end-to-end projects by which it will help me gain better knowledge of frontend and web3 also, as just coding smart contract will not be enough.
 
 Here is the list of projects which I am going to spend on an average 3 days on each:
-![projects-list](./readme-files/projects-list.png)
+![projects-list](/readme-files/projects-list.png)
 
 🎯 Basic goal for me taking this challenge is to learn more about Solidity, Web3/Ethers, Hardhat/Truffle, React, and be able to create more smart contracts, and get a hang of it!
 
