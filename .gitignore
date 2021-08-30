@@ -3,3 +3,4 @@
 /1-Hello-World-Project/.env
 /1-Hello-World-Project/cache
 /1-Hello-World-Project/client/node_modules
+/1-Hello-World-Project/client/yarn.lock

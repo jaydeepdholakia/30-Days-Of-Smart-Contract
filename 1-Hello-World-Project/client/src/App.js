@@ -48,7 +48,7 @@ function App() {
     <div className="container" style={mystle}>
       <h1 className="text-center my-5">Welcome to HelloWorld Blockchain project</h1>
       <p className="text-center my-2">This project is part of my <a href="https://github.com/jaydeepdholakia/30-Days-Of-Smart-Contract">30 Days Of Smart Contract</a>. Where I code 10 different smart contract but with a UI for anyone to interact with.<br />
-      A HelloWorld.sol contract is deployed on Mumbai testnet. You can check contract's code <a href="https://github.com/jaydeepdholakia/30-Days-Of-Smart-Contract">here</a>.</p>
+      A HelloWorld.sol contract is deployed on Mumbai testnet. You can check contract's code <a href="https://github.com/jaydeepdholakia/30-Days-Of-Smart-Contract/blob/main/1-Hello-World-Project/contracts/HelloWorld.sol">here</a>.</p>
       <hr />
       <div className="alert alert-info my-3">
         <p>The <strong>Read msg</strong> button displays the current stored string value in HelloWorld.sol</p>
