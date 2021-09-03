@@ -14,7 +14,7 @@ Clone the project
 
 ```bash
   git clone https://github.com/jaydeepdholakia/30-Days-Of-Smart-Contract.git
-```
+``` 
 
 Go to the project directory
 

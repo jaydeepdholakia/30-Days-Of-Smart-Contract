@@ -47,6 +47,8 @@ Here is the list of projects which I am going to spend on an average 3 days on e
 
 [**1️⃣ Hello-World-Project**](/1-Hello-World-Project/)
 
+[**2️⃣ Simple-Calculator-Operations**](https://github.com/jaydeepdholakia/2-Calculator-30DaysOfSmartContract)
+
 ---
 
 ### Resources
